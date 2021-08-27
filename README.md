@@ -1,3 +1,4 @@
+![Amazon-clone-screenshot](https://user-images.githubusercontent.com/85564603/131131403-e9b6d924-e190-49c4-bbb0-64e5b85b64b1.png)
 # Installation Steps
 
 
